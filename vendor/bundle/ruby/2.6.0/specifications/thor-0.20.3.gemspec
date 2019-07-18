@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+git remote add origin git@github.com:tobibako45/rails-api-practice.git# -*- encoding: utf-8 -*-
 # stub: thor 0.20.3 ruby lib
 
 Gem::Specification.new do |s|
