@@ -6,7 +6,17 @@
     - "どちらでもない"
     - "まあまあすっきり"
     - "すっきり"
-
+  values:
+    - clean: -0.2
+      koku: 0.2
+    - clean: -0.1
+      koku: 0.1
+    - clean: 0
+      koku: 0
+    - clean: 0.1
+      koku: -0.1
+    - clean: 0.2
+      koku: -0.2
 - id: 2
   text: "日頃飲んでいるお酒は？"
   choises:
@@ -16,3 +26,5 @@
     - "チューハイ"
     - "カクテル"
     - "ワイン"
+  values:
+
